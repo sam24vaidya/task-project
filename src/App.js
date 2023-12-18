@@ -15,8 +15,7 @@ function App() {
 
 </Routes>
 </BrowserRouter>
-      {/* <Login />
-      <Signup/> */}
+     
     </div>
   );
 }
